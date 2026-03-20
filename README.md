@@ -1,2 +1,3 @@
-# rapid-security-scanner-oe55
-Repository to test GitHub automation for issue management
+# Rapid Security Scanner Oe55
+
+A repository to test GitHub automation for issue management.
